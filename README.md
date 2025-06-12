@@ -1,13 +1,12 @@
-<h1>Jogo do número secreto</h1>
+# **Jogo do número secreto**
 
-<h2>�� Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+## Sobre
+- Projeto utilizado nos cursos de lógica de programação da Alura.
+- Desenvolvi em conjunto com o professor um jogo onde o sistema gera um número randomico e o usuário deve tentar acertar qual foi o número.
 
-## �� Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+## Tecnologias
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css" />
+</p>
 
-// Código omitido. 
