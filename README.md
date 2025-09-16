@@ -18,6 +18,12 @@ Durante as tentativas, o sistema fornece feedback se o palpite é maior ou menor
 
 ## Tecnologias utilizadas
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
+
 - **HTML** → Estrutura do jogo  
 - **CSS** → Estilização e layout responsivo  
 - **JavaScript** → Lógica, interação e validações  
